@@ -20,6 +20,7 @@ requirements:
     - colorful
     - django
     - pip
+    - setuptools
   run:
     - python >={{ python_min }}
     - django >=1.11
